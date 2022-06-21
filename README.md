@@ -1,3 +1,3 @@
 # MSSC Brewery POM
 
-Source code in this repository is to support my online courses.
+BOM for common Brewery dependencies
